@@ -1,0 +1,10 @@
+Model evaluation report
+Generated: 2025-11-22 17:26:43.912272
+
+model: LOGREG
+accuracy: 0.6333
+precision: 0.6538
+recall: 0.5667
+f1: 0.6071
+roc_auc: 0.7144
+confusion_matrix: [[21, 9], [13, 17]]

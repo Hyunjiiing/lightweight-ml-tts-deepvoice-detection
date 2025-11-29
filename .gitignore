@@ -1,0 +1,14 @@
+# Ignore large flac audio directories for LA and PA datasets
+LA/ASVspoof2019_LA_dev/flac/
+LA/ASVspoof2019_LA_train/flac/
+PA/ASVspoof2019_PA_dev/flac/
+PA/ASVspoof2019_PA_train/flac/
+
+# Common ignores
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.egg-info/
+dist/
+build/

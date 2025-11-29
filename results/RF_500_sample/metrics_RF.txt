@@ -1,0 +1,10 @@
+Model evaluation report
+Generated: 2025-11-22 18:34:42.271965
+
+model: RF
+accuracy: 0.85
+precision: 0.907
+recall: 0.78
+f1: 0.8387
+roc_auc: 0.903
+confusion_matrix: [[46, 4], [11, 39]]
